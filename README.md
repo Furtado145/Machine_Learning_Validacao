@@ -1,0 +1,2 @@
+# Machine_Learning_Validacao
+O motivo dessa análise é mostrar alguns dos diversos modos de fazer a validação de um modelo. Iremos primeiro verificar qual seria nossa acurácia utilizando um **Dummy Classifier**. Depois veremos se utilizássemos o algoritmo **DecisionTreeClassifier**, qual seria nosso resultado. Entretanto, a separação de nossos dados são influenciados por um **'SEED'**. Veremos alguns métodos para não cairmos desse problema.
